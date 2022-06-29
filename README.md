@@ -1,5 +1,5 @@
 # Discord Bot Templates
-This repository contains templates for PyCord discord bots.
+This repository contains templates for **PyCord** discord bots.
 
 It is pretty outdated and was just in one of my folders so I thought of myself, why don't I just make a repo?
 
